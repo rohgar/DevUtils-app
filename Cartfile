@@ -1,2 +1,2 @@
 github "RobertoMachorro/Highlightr"
-github "Kentzo/ShortcutRecorder"
+github "Kentzo/ShortcutRecorder" ~> 3.3.0
